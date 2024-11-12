@@ -41,11 +41,16 @@ Programming Languages: Python (for data analysis and visualization)
 Libraries: Pandas, NumPy, Matplotlib, Seaborn (for data processing and visualization)
 Dashboard/Visualization: Power BI or Streamlit (for building dashboards if needed)
 Version Control: Git and GitHub (to manage and share project files)
-Expected Outcomes
+
+
+**Expected Outcomes**
 Insights on Payment Preferences: Clear understanding of how different payment types impact revenue.
 Optimized Payment Strategy: Recommendations for drivers to encourage high-revenue payment types.
 Data-Driven Decisions: A structured approach for cab drivers to adjust their operations based on payment trends.
-Future Enhancements
+
+
+**Future Enhancements**
 Machine Learning Predictions: Implement models to predict high-revenue rides based on payment type and other features.
 Integration with Cab Platforms: Collaborate with cab companies to integrate insights into driver apps, providing real-time suggestions for payment method optimization.
+
 This project provides a comprehensive approach to understanding and leveraging payment type analysis for revenue maximization in the cab industry, and could serve as a valuable resource for drivers and cab companies alike.
