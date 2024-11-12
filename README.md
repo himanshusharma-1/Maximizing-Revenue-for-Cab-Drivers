@@ -33,6 +33,9 @@ Documentation
 
 Prepare a report or presentation (like the PPT you have) summarizing the findings, methodology, and recommended actions.
 Include documentation in the GitHub repository for easy reference.
+
+
+
 **Tools and Technologies**
 Programming Languages: Python (for data analysis and visualization)
 Libraries: Pandas, NumPy, Matplotlib, Seaborn (for data processing and visualization)
