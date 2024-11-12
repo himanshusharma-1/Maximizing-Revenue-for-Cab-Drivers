@@ -1,13 +1,13 @@
-Project Title
+**Project Title**
 Maximizing Revenue for Cab Drivers Through Payment Type Analysis
 
-Project Overview
+**Project Overview**
 This project aims to analyze payment types in cab services to identify patterns that can help maximize revenue for cab drivers. By examining different payment methods used by customers, such as cash, credit card, and digital wallet payments, this project seeks to uncover insights that could influence driver strategy, improve payment method adoption, and ultimately increase earnings.
 
-Objective
+**Objective**
 The primary objective is to determine the impact of various payment types on cab drivers’ revenue. The insights derived from this analysis could help drivers understand customer preferences, optimize their approach toward payment collection, and enhance their revenue.
 
-Key Components
+**Key Components**
 Data Collection & Preprocessing
 
 Gather data on cab rides, including details like payment type, fare amount, time of ride, and trip duration.
@@ -33,7 +33,7 @@ Documentation
 
 Prepare a report or presentation (like the PPT you have) summarizing the findings, methodology, and recommended actions.
 Include documentation in the GitHub repository for easy reference.
-Tools and Technologies
+**Tools and Technologies**
 Programming Languages: Python (for data analysis and visualization)
 Libraries: Pandas, NumPy, Matplotlib, Seaborn (for data processing and visualization)
 Dashboard/Visualization: Power BI or Streamlit (for building dashboards if needed)
